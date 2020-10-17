@@ -9,7 +9,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<!-- Favicons --> <link rel="shortcut icon" type="image/png" href="file:///Users/zamirlalji/Desktop/Portfilo/images.jpg"/>
+		<!-- Favicons --> <link rel="shortcut icon" type="image/jpg" href="https://github.com/Zamir95/zamirlalji.github.io/images.jpg"/>
 	</head>
 	<body class="is-preload">
 
@@ -18,7 +18,7 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Zamir Lalji</h1>
+						<h1>Zamir Lalji - Software Developer</h1>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -32,11 +32,12 @@
 					<nav id="nav">
 						<ul class="links">
 							<li class="active"><a href="index.html">Home</a></li>
-							<p></p>
+							
 						</ul>
 						<ul class="icons">
 							<li><a href="https://linkedin.com/in/zamir-lalji-b1021b1b2" class="icon brands fa-linkedin"><span class="label">LinkendIn</span></a></li>
 							<li><a href="https://github.com/Zamir95/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="mailto:zamirlal15@gmail.com" class="fa fa-envelope" aria-hidden="true"></a></li>
 						</ul>
 					</nav>
 
@@ -47,7 +48,7 @@
 							<article class="post featured">
 								<header class="major">
 									<h2>About Me</h2>
-									<p> My name is Zamir Lalji. I am a recent graduate of York University. I am a passionate software developer who wants to showcase my skills that I have learned throughout my University Career and Free Time. I have learned many languages such as Python, C, C++, Javascript, React.js etc. For more information please take a look at my resume and github. If you have any question please email me. </p>
+									<p> My name is Zamir Lalji. I am a recent graduate of York University. I am a passionate software developer who wants to showcase the skills that I have learned throughout my University Career and Free Time. I have learned many languages such as Python, C, C++, Javascript, React.js etc. For more information please take a look at my resume and github. If you have any questions please email me. </p>
 								</header>
 							</article>
 
@@ -63,10 +64,6 @@
 							<section>
 								<h3>Resume</h3>
 								<p><a href="https://drive.google.com/file/d/1H-bmwwZzyRSLS5OVZnEome11WB8SS7qx/view?usp=sharing">Resume</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="mailto:zamirlal15@gmail.com">zamirlal15@gmail.com</a></p>
 							</section>
 						</section>
 					</footer>
