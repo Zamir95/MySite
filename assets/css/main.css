@@ -70,6 +70,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+.button:active {
+background-color: red;
+box-shadow: 0 5px blue;
+transform: translateY(4px);
+}
+
 /* Basic */
 
 	@-ms-viewport {
