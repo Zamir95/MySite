@@ -70,11 +70,11 @@ input, select, textarea {
 	appearance: none;
 }
 
-.active:hover{
+.button:hover{
 background-color: yellow;
 }
 
-.active:active {
+.button:active {
 background-color: red;
 box-shadow: 0 5px blue;
 transform: translateY(4px);
