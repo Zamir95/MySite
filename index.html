@@ -20,6 +20,26 @@
 					<div id="intro">
 						<h1>Zamir Lalji <br> Backend Software Developer</h1>
 						<p style="text-align:center;">Date/Time: <span id="datetime"></span></p>
+						<script>
+							function updateDateTime() {
+  									// Get the current date and time
+  								var now = new Date();
+
+  								// Format the date and time as desired (you can adjust this format)
+  								var formattedDateTime = now.toLocaleString(); // Example format
+
+  								// Update the content of the 'datetime' span element
+  								document.getElementById("datetime").textContent = formattedDateTime;
+							}
+
+								// Call the updateDateTime function initially to set the initial content
+							updateDateTime();
+
+							// Update the date and time every 1 second (1000 milliseconds)
+							setInterval(updateDateTime, 1000);
+				</script>
+
+
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
