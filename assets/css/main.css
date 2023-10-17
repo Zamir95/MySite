@@ -4500,6 +4500,30 @@ h1{
 
 		}
 
+		/* Style for the "Back to Top" button */
+.back-to-top {
+  display: block;
+  text-align: center;
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+
+.back-to-top button {
+  background-color: #fff; /* Set background color to white */
+  color: #0074d9; /* Set text color to the desired blue */
+  border: 2px solid #0074d9; /* Add a blue border */
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: border-color 0.3s, color 0.3s; /* Transition the border color and text color */
+}
+
+.back-to-top button:hover {
+  border-color: #a9d9ff; /* Change border color to light blue on hover */
+  color: #a9d9ff; /* Change text color to light blue on hover */
+}
+
+
 /* Nav Panel */
 
 	#navPanelToggle {
