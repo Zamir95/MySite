@@ -75,7 +75,7 @@ background-color: white;
 }
 
 .button:active {
-background-color: white;
+background-color: red;
 box-shadow: 0 5px blue;
 transform: translateY(4px);
 }
